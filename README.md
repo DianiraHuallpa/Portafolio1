@@ -36,29 +36,20 @@ Las ideas principales son:
 ___
 5. Ejercicios más importantes de las prácticas 
 
-Para mi las prácticas fundamentales con las que he llegado a entender mejor la programación a objetos son:
-* la Práctica 21(carta/Dado): 
-* Práctica 25(Herencia):
 
 
-
-> Practica 25: Herencia
-
-* ¿Por qué?
-  Con estas prácticas llegue a entender como funciona la creación de clases y de objetos, creo que al ser tan simple ayuda a que se asimile mejor.
-
-* ¿Cómo lo has resuelto?
-
-
-  <img src="Captura.JPG" width="762" height="574" alt="practica 25: Herencia">
+<img src="Captura.JPG" width="762" height="574" alt="practica 25: Herencia">
 
 <!-- ![Ejercicio ascensor](captura.jpg "practica 25: Herencia")-->
+> Practica 25: Herencia
+
+* ¿Por qué? 
+* ¿Cómo lo has resuelto u lo que has aprendido con ellos
 
 ```
 public void     (){
     
 }
 ```
-* Conclusiones sobre las dos unidades
-
+* Explica tus conclusiones en este momento sobre estas 
 __
