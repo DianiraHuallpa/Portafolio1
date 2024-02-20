@@ -27,14 +27,15 @@ Durante el transcurso de estos dos últimos temas he llegado a aprender varios c
 
 Las ideas principales son:
 * Objetos y clases: Las clases son las plantillas que usamos para crear objetos, los objetos son instancias de esas clases.
-* Constructores:
-* Encapsulamiento: 
+* Constructores: utilizados para inicializar objetos.
+* Encapsulamiento: los procedimientos o funciones que trabajan con los datos, se integran en una única estructura: el objeto.
 * Ocultación: Podemos elegir como queremos que se visualicen nuestras propiedades.
-* Polimorfismo:
-* Herencia:
-* Abstracción:
+* Polimorfismo: responder al mismo método de manera distinta.
+* Herencia: Permite que una clase (subclase) herede los atributos y métodos de otra clase (superclase).
+* Abstracción: identificar las características esenciales de un objeto y eliminar los detalles innecesarios
 ___
 5. Ejercicios más importantes de las prácticas 
+
 
 
 
@@ -43,13 +44,24 @@ ___
 <!-- ![Ejercicio ascensor](captura.jpg "practica 25: Herencia")-->
 > Practica 25: Herencia
 
-* ¿Por qué? 
+* ¿Por qué?
+
+Creo que los ejercicios más representativos de programación orientada a objetos son, desde mi punto de vista,
+la práctica de dados y carta, por su simplicidad me ayudó a comprender conceptos básicos. La otra práctica
+representativa es la de ordenadores-Herencia porque tiene un poco de todo lo que hemos estado viendo en este
+  tema:
+  * Distintas clases interactuando entre ellas
+  * objetos que contienen a objetos
+  * Ejemplo de herencia sencilla
+
+
 * ¿Cómo lo has resuelto u lo que has aprendido con ellos
 
-```
-public void     (){
-    texto
-}
-```
-* Explica tus conclusiones en este momento sobre estas 
-__
+Definiendo el sistema de clases y propiedades, reestructurando para utilizar
+la herencia de manera óptima e implementando los métodos más complejos.
+
+* Explica tus conclusiones en este momento
+
+El aprendizaje de la programación orientada a objetos ha transformado mi perspectiva, pasando de un enfoque estructural 
+a uno más práctico y flexible. Ahora entiendo que usando clases, objetos, herencia ... puedo obtener soluciones más 
+adaptables y realistas. Las prácticas, especialmente las de dados y cartas, han sido de gran ayuda.
